@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "autheelete",
+        "uuid": 4163080,
+        "checksum": "4ojoy"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
